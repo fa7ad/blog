@@ -40,8 +40,8 @@ theme:
   website: '//thewebaholic.ml/'
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  google_analytics: "UA-61416202-1"# Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname: "devilv15"
   katex: true # Enable if using math markup
 
   # Localization strings

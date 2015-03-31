@@ -41,7 +41,7 @@ theme:
 
   # Scripts
   google_analytics: "UA-61416202-1"# Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: "devilv15"
+  disqus_shortname: "thewebaholic"
   katex: true # Enable if using math markup
 
   # Localization strings

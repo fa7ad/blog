@@ -39,8 +39,13 @@ header {
     background-size: $feature-image-size;
     margin-bottom: 0;
     padding: $padding-large/2.5 $padding-large;
+   .title{
+      color: #FFF;
+      text-shadow: 1px 1px 10px #000;
+    }
     .meta {
       color: rgba($feature-image-text-color, .7);
+      text-shadow: 1px 1px 5px #fff
     }
   }
   .post-content {

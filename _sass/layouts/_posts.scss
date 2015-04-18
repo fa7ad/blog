@@ -45,7 +45,7 @@ header {
       text-shadow: 1px 1px 10px #000;
     }
     .meta {
-      color: rgba($feature-image-text-color, .7);
+      color: /*rgba($feature-image-text-color, .7);*/ #eee;
       text-shadow: 1px 1px 5px #fff
     }
   }

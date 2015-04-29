@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Joined tumblr
-feature-img: "/img/tumblr-logo.jpg"
+feature-img: "img/tumblr-logo.jpg"
 ---
 ## I joined the land of randomness
 

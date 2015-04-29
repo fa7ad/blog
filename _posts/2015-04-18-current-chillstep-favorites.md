@@ -3,7 +3,7 @@ layout: post
 title: My current chillstep obsessions
 feature-img: "http://finda.photo/image/7929/download"
 ---
-# I hated dubstep!!!
+## _I hated dubstep!!!_
 
 Yup, I did... Only cuz dubstep automatically translated to Skrillex in most mainstream charts.  
 Sonny is great, but after a while the music gets boring...

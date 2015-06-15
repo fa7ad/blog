@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://thewebaholic.ml" # the base hostname & protocol for your site
+url: "http://fhossain.xyz" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
